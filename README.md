@@ -1,4 +1,4 @@
-# Suoervised Machine Learning Analysis
+# Supervised Machine Learning Analysis
 This project involves conducting a supervised machine learning analysis. It includes setting up the project, installing necessary dependencies, and running tests. The analysis aims to achieve specific objectives using regression, classification, or other supervised learning techniques.
 
 ## Getting Started
